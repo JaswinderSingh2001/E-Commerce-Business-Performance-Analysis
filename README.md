@@ -1,1 +1,1 @@
-# E-Commerce-Business-Performance-Analysis
+This data analysis project demonstrates the end-to-end process of data extraction, manipulation, analysis using SQL, and visualization using Python. It highlights the capabilities of each tool in generating actionable insights. The project provides valuable insights into various aspects of eCommerce, such as sales trends, customer behavior, and product performance for various products listed by multiple sellers on Amazon from 2019 to 2022.
